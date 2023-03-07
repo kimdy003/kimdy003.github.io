@@ -1,3 +1,4 @@
 source "https://rubygems.org"
 gemspec
-gem 'rake','12.3.2'
+
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
