@@ -1,5 +1,5 @@
 ---
-title:  "Pandas DataFrame"
+title:  "Pandas Part2. DataFrame"
 
 categories:
   - Basic

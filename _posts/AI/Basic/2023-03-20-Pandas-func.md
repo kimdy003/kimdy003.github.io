@@ -1,5 +1,5 @@
 ---
-title:  "Pandas 연산과 함수"
+title:  "Pandas Part 3. 연산과 함수"
 
 categories:
   - Basic

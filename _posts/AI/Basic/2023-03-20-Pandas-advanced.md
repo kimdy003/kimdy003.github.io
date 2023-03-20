@@ -1,5 +1,5 @@
 ---
-title:  "Pandas 심화"
+title:  "Pandas Part 4. 심화"
 
 categories:
   - Basic

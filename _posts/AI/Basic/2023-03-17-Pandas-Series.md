@@ -1,5 +1,5 @@
 ---
-title:  "Pandas Series"
+title:  "Pandas Part 1. Series"
 
 categories:
   - Basic
