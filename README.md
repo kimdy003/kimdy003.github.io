@@ -1,1 +1,2 @@
-# kimdy003.github.io
+# DY Blog📂
+https://kimdy003.github.io/
