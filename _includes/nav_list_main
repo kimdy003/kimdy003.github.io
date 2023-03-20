@@ -8,7 +8,15 @@
             📂 <span style="font-family:'Cafe24Oneprettynight';">전체 글 수</style> <span style="font-family:'Coming Soon';">{{sum}}</style> <span style="font-family:'Cafe24Oneprettynight';">개</style> 
       </li>
       <li>
-        
+        <span class="nav__sub-title">인공지능</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Basic" %}
+                        <li><a href="/categories/Basic" class="">Basic ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
         <span class="nav__sub-title">Coding Test</span>
             <ul>
                 {% for category in site.categories %}
@@ -24,6 +32,8 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+
+        
  
         <span class="nav__sub-title">etc</span>
             <ul>
