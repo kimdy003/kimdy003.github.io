@@ -9,8 +9,8 @@ tags:
 toc: true
 toc_sticky: true
  
-date: 2023-03-20
-last_modified_at: 2023-03-20
+date: 2023-03-19
+last_modified_at: 2023-03-19
 ---
 
 ## 누락된 데이터 체크
