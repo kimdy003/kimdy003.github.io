@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Do0_Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "./assets/images/my_photo.jpg"
   bio              : "<br>평생 공부 : Today I Learned 🌙"
   location         : "Republic of Korea"
   email            :
