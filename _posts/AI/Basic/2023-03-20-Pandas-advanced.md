@@ -220,3 +220,6 @@ df.pivot_table(
 ![image](https://user-images.githubusercontent.com/31909322/226333991-0158c025-953f-4bf5-a6ae-9cc666c89fd2.png)
 
 <br>
+<br>
+<br>
+<br>
